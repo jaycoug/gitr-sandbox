@@ -1,2 +1,3 @@
 # Git-R Sandbox
 This repo is an unstructured environment to practice modifying Git repos associated with R code.
+Modifications to the remote instance of this repo (hosted on GitHub) involve my first time using fine-grained personal access tokens. There are two tokens which allow read/write access to the contents of this repo: one dedicated to the local repo on my Windows 10 system, and the other to the local repo on my Linux Ubuntu 22 system.
